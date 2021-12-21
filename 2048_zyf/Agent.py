@@ -6,7 +6,7 @@ import random
 from os.path import join
 from World import Board, STOP_REWARD
 
-MAX_VALUE = 160000
+MAX_VALUE = 1<<31
 
 def save_model(model, filepath):
     with open(join(filepath, 'model.pkl'), 'wb') as f:
@@ -67,7 +67,7 @@ class TuplesNet():
         return V
 
 class Agent():
-    def __init__(self, name, patterns, merge_patterns = None, maxnum = 12, merge=False, squeeze = False):
+    def __init__(self, name, patterns, merge_patterns = None, maxnum = 14, merge=False, squeeze = False):
         self.patterns = patterns
         self.Tuples = []
         self.maxnum = maxnum
@@ -79,6 +79,7 @@ class Agent():
         self.metrics = []
         self.static = {'score':[], 'winning_rate':[]}
         self.max_mean_score = 0
+        self.name = name
         self.filepath = join('models', name)
         self.run_time = 0.0
         self.start_time = 0.0
@@ -88,16 +89,17 @@ class Agent():
     def mergeTuple(self, t1:TuplesNet, t2:TuplesNet):
         p1 = t1.pattern
         p2 = t2.pattern
-        p = p1+p2
+        p = [i for i in range(16) if (i in p1) or (i in p2)]
         dim = len(p)
-        assert len(list(set(p1).intersection(set(p2)))) == 0
         Tuple = TuplesNet(p, self.maxnum, self.squeeze)
         V1 = t1.V
-        while (len(V1.shape) < dim):
-            V1 = np.expand_dims(V1,-1).repeat(self.maxnum, axis=-1)
+        for idx, pos in enumerate(p):
+            if pos not in p1:
+                V1 = np.expand_dims(V1,idx).repeat(self.maxnum, axis=idx)
         V2 = t2.V
-        while (len(V2.shape) < dim):
-            V2 = np.expand_dims(V2,0).repeat(self.maxnum, axis=0)
+        for idx, pos in enumerate(p):
+            if pos not in p2:
+                V2 = np.expand_dims(V2,idx).repeat(self.maxnum, axis=idx)
         Tuple.V = V1+V2
         return Tuple
 
@@ -136,16 +138,20 @@ class Agent():
             exact = r + self.setValue(s_, lr*error)
             
     def Stattistic(self, epoch, unit, show=True):
+        f = open(join(self.filepath, 'log.txt'),'a+')
         metrics = np.array(self.metrics[epoch-unit:epoch])
         score_mean = np.mean(metrics[:, 0])
         score_max = np.max(metrics[:, 0])
         
         if show:
-            print('\n')
-            print('epoch: {:<8d} time: {:>8.0f} Seconds\nmean = {:<8.0f} max = {:<8.0f}'.format(epoch, time.time() - self.start_time, score_mean, score_max))
+            f.write('\nepoch: {:<8d} time: {:>8.0f} Seconds\nmean = {:<8.0f} max = {:<8.0f}\n\n'.format(epoch, time.time() - self.start_time, score_mean, score_max))
         if (metrics.shape[1] < 3 or (epoch/unit)%10 != 0):
+            f.close()
             return score_mean, score_max
         # all end game board
+        metrics = np.array(self.metrics[epoch-10*unit:epoch])
+        score_mean = np.mean(metrics[:, 0])
+        score_max = np.max(metrics[:, 0])
         end_games = metrics[:, 2]
         reach_nums = np.array([1<<max(end) & -2 for end in end_games])
                   
@@ -159,13 +165,14 @@ class Agent():
             ends = np.count_nonzero(reach_nums == num)
             ends = (ends*100)/len(metrics)
             if show:
-                print('{:<5d}  {:3.1f} % ({:3.1f} %)'.format(num, reachs, ends) )
+                f.write('{:<5d}  {:3.1f} % ({:3.1f} %)\n'.format(num, reachs, ends) )
             if num == 2048:
                 self.static['winning_rate'][-1]=reachs
             score_stat.append( (num, reachs, ends) )
         
         score_stat = np.array(score_stat)
         self.static['score'].append(score_mean)
+        f.close()
         if score_mean > self.max_mean_score:
             self.max_mean_score = score_mean
             self.run_time = time.time() - self.start_time
@@ -177,6 +184,9 @@ class Agent():
         return score_mean, score_max, score_stat
     
     def train(self, epoch_size, lr=0.1, showsize=100):
+        f = open(join(self.filepath, 'log.txt'),'w')
+        f.write('# {}\n'.format(self.name))
+        f.close()
         start_epoch = len(self.metrics)
         self.start_time = time.time() - self.run_time
         for epoch in range(start_epoch, epoch_size):
@@ -196,7 +206,7 @@ class Agent():
                 records.insert(0, (game.tile, action, reward, next_game.tile, next_game_after.tile) )
                 game = next_game_after
                 
-            self.learn(records, lr / len(self.Tuples))
+            self.learn(records, lr)
             self.metrics.append((score, len(records), game.tile))
             if (epoch+1) % showsize == 0:
                 self.Stattistic(epoch+1, showsize)
