@@ -1,0 +1,2345 @@
+# tt_4_2_tuple
+
+epoch: 100      time:       23 Seconds
+mean = 3573     max = 10344   
+
+
+epoch: 200      time:       55 Seconds
+mean = 5251     max = 14300   
+
+
+epoch: 300      time:       90 Seconds
+mean = 6196     max = 13316   
+
+
+epoch: 400      time:      130 Seconds
+mean = 6341     max = 15480   
+
+
+epoch: 500      time:      178 Seconds
+mean = 7230     max = 26796   
+
+
+epoch: 600      time:      231 Seconds
+mean = 7398     max = 23220   
+
+
+epoch: 700      time:      275 Seconds
+mean = 7133     max = 15744   
+
+
+epoch: 800      time:      326 Seconds
+mean = 8116     max = 17140   
+
+
+epoch: 900      time:      375 Seconds
+mean = 8473     max = 27148   
+
+
+epoch: 1000     time:      423 Seconds
+mean = 7725     max = 25536   
+
+32     100.0 % (0.2 %)
+64     99.8 % (0.2 %)
+128    99.6 % (3.1 %)
+256    96.5 % (25.0 %)
+512    71.5 % (51.5 %)
+1024   20.0 % (19.4 %)
+2048   0.6 % (0.6 %)
+
+epoch: 1100     time:      473 Seconds
+mean = 8845     max = 25456   
+
+
+epoch: 1200     time:      520 Seconds
+mean = 8013     max = 23012   
+
+
+epoch: 1300     time:      567 Seconds
+mean = 8266     max = 23232   
+
+
+epoch: 1400     time:      611 Seconds
+mean = 7728     max = 14672   
+
+
+epoch: 1500     time:      659 Seconds
+mean = 8297     max = 17520   
+
+
+epoch: 1600     time:      705 Seconds
+mean = 7839     max = 24960   
+
+
+epoch: 1700     time:      757 Seconds
+mean = 9286     max = 22168   
+
+
+epoch: 1800     time:      806 Seconds
+mean = 8738     max = 16184   
+
+
+epoch: 1900     time:      852 Seconds
+mean = 7914     max = 15904   
+
+
+epoch: 2000     time:      902 Seconds
+mean = 8947     max = 19184   
+
+64     100.0 % (0.1 %)
+128    99.9 % (1.2 %)
+256    98.7 % (17.1 %)
+512    81.6 % (46.0 %)
+1024   35.6 % (35.0 %)
+2048   0.6 % (0.6 %)
+
+epoch: 2100     time:      947 Seconds
+mean = 7803     max = 15440   
+
+
+epoch: 2200     time:     1001 Seconds
+mean = 9713     max = 20800   
+
+
+epoch: 2300     time:     1046 Seconds
+mean = 7804     max = 23804   
+
+
+epoch: 2400     time:     1094 Seconds
+mean = 8507     max = 16076   
+
+
+epoch: 2500     time:     1138 Seconds
+mean = 7616     max = 16084   
+
+
+epoch: 2600     time:     1188 Seconds
+mean = 8707     max = 16032   
+
+
+epoch: 2700     time:     1237 Seconds
+mean = 8672     max = 16132   
+
+
+epoch: 2800     time:     1283 Seconds
+mean = 8032     max = 22504   
+
+
+epoch: 2900     time:     1336 Seconds
+mean = 9662     max = 26820   
+
+
+epoch: 3000     time:     1385 Seconds
+mean = 8607     max = 16308   
+
+16     100.0 % (0.1 %)
+32     99.9 % (0.2 %)
+64     99.7 % (0.4 %)
+128    99.3 % (2.7 %)
+256    96.6 % (16.2 %)
+512    80.4 % (41.3 %)
+1024   39.1 % (38.5 %)
+2048   0.6 % (0.6 %)
+
+epoch: 3100     time:     1435 Seconds
+mean = 9068     max = 26400   
+
+
+epoch: 3200     time:     1485 Seconds
+mean = 8801     max = 24012   
+
+
+epoch: 3300     time:     1534 Seconds
+mean = 8656     max = 16592   
+
+
+epoch: 3400     time:     1581 Seconds
+mean = 8335     max = 16152   
+
+
+epoch: 3500     time:     1633 Seconds
+mean = 9318     max = 26360   
+
+
+epoch: 3600     time:     1684 Seconds
+mean = 8978     max = 17748   
+
+
+epoch: 3700     time:     1732 Seconds
+mean = 8365     max = 17772   
+
+
+epoch: 3800     time:     1779 Seconds
+mean = 8124     max = 17524   
+
+
+epoch: 3900     time:     1831 Seconds
+mean = 9549     max = 27304   
+
+
+epoch: 4000     time:     1882 Seconds
+mean = 9034     max = 26636   
+
+64     100.0 % (0.3 %)
+128    99.7 % (2.2 %)
+256    97.5 % (16.2 %)
+512    81.3 % (42.2 %)
+1024   39.1 % (37.7 %)
+2048   1.4 % (1.4 %)
+
+epoch: 4100     time:     1932 Seconds
+mean = 8965     max = 25632   
+
+
+epoch: 4200     time:     1985 Seconds
+mean = 9486     max = 24480   
+
+
+epoch: 4300     time:     2034 Seconds
+mean = 8704     max = 29892   
+
+
+epoch: 4400     time:     2082 Seconds
+mean = 8355     max = 26516   
+
+
+epoch: 4500     time:     2132 Seconds
+mean = 8925     max = 16952   
+
+
+epoch: 4600     time:     2180 Seconds
+mean = 8561     max = 24708   
+
+
+epoch: 4700     time:     2237 Seconds
+mean = 10410    max = 28900   
+
+
+epoch: 4800     time:     2286 Seconds
+mean = 8596     max = 17196   
+
+
+epoch: 4900     time:     2336 Seconds
+mean = 8680     max = 20868   
+
+
+epoch: 5000     time:     2385 Seconds
+mean = 8750     max = 16536   
+
+32     100.0 % (0.2 %)
+64     99.8 % (0.1 %)
+128    99.7 % (2.3 %)
+256    97.4 % (17.0 %)
+512    80.4 % (39.1 %)
+1024   41.3 % (40.1 %)
+2048   1.2 % (1.2 %)
+
+epoch: 5100     time:     2434 Seconds
+mean = 8682     max = 22548   
+
+
+epoch: 5200     time:     2482 Seconds
+mean = 8730     max = 15812   
+
+
+epoch: 5300     time:     2530 Seconds
+mean = 8505     max = 16664   
+
+
+epoch: 5400     time:     2582 Seconds
+mean = 9339     max = 16668   
+
+
+epoch: 5500     time:     2634 Seconds
+mean = 9362     max = 24796   
+
+
+epoch: 5600     time:     2679 Seconds
+mean = 7925     max = 16496   
+
+
+epoch: 5700     time:     2727 Seconds
+mean = 8460     max = 25428   
+
+
+epoch: 5800     time:     2780 Seconds
+mean = 9829     max = 27276   
+
+
+epoch: 5900     time:     2828 Seconds
+mean = 8485     max = 25276   
+
+
+epoch: 6000     time:     2879 Seconds
+mean = 9184     max = 25580   
+
+32     100.0 % (0.2 %)
+64     99.8 % (0.6 %)
+128    99.2 % (2.8 %)
+256    96.4 % (17.4 %)
+512    79.0 % (35.6 %)
+1024   43.4 % (42.1 %)
+2048   1.3 % (1.3 %)
+
+epoch: 6100     time:     2931 Seconds
+mean = 9499     max = 27576   
+
+
+epoch: 6200     time:     2986 Seconds
+mean = 9912     max = 27076   
+
+
+epoch: 6300     time:     3039 Seconds
+mean = 9820     max = 26184   
+
+
+epoch: 6400     time:     3093 Seconds
+mean = 9926     max = 26956   
+
+
+epoch: 6500     time:     3147 Seconds
+mean = 9724     max = 28048   
+
+
+epoch: 6600     time:     3200 Seconds
+mean = 9848     max = 26972   
+
+
+epoch: 6700     time:     3248 Seconds
+mean = 8517     max = 27072   
+
+
+epoch: 6800     time:     3298 Seconds
+mean = 8890     max = 26768   
+
+
+epoch: 6900     time:     3348 Seconds
+mean = 8954     max = 26860   
+
+
+epoch: 7000     time:     3401 Seconds
+mean = 9643     max = 16156   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.5 %)
+128    99.4 % (2.5 %)
+256    96.9 % (14.3 %)
+512    82.6 % (34.9 %)
+1024   47.7 % (45.1 %)
+2048   2.6 % (2.6 %)
+
+epoch: 7100     time:     3454 Seconds
+mean = 9648     max = 23608   
+
+
+epoch: 7200     time:     3503 Seconds
+mean = 8899     max = 16204   
+
+
+epoch: 7300     time:     3557 Seconds
+mean = 9645     max = 27128   
+
+
+epoch: 7400     time:     3602 Seconds
+mean = 7981     max = 15944   
+
+
+epoch: 7500     time:     3651 Seconds
+mean = 8746     max = 16264   
+
+
+epoch: 7600     time:     3702 Seconds
+mean = 9123     max = 21812   
+
+
+epoch: 7700     time:     3753 Seconds
+mean = 9207     max = 25036   
+
+
+epoch: 7800     time:     3807 Seconds
+mean = 10066    max = 26796   
+
+
+epoch: 7900     time:     3861 Seconds
+mean = 9796     max = 26916   
+
+
+epoch: 8000     time:     3917 Seconds
+mean = 10124    max = 21672   
+
+32     100.0 % (0.2 %)
+64     99.8 % (0.2 %)
+128    99.6 % (2.8 %)
+256    96.8 % (12.8 %)
+512    84.0 % (34.8 %)
+1024   49.2 % (47.7 %)
+2048   1.5 % (1.5 %)
+
+epoch: 8100     time:     3967 Seconds
+mean = 9055     max = 26652   
+
+
+epoch: 8200     time:     4020 Seconds
+mean = 9726     max = 26248   
+
+
+epoch: 8300     time:     4076 Seconds
+mean = 10241    max = 17488   
+
+
+epoch: 8400     time:     4126 Seconds
+mean = 8953     max = 16724   
+
+
+epoch: 8500     time:     4180 Seconds
+mean = 9798     max = 15964   
+
+
+epoch: 8600     time:     4231 Seconds
+mean = 8963     max = 16608   
+
+
+epoch: 8700     time:     4283 Seconds
+mean = 9444     max = 26916   
+
+
+epoch: 8800     time:     4335 Seconds
+mean = 9280     max = 22924   
+
+
+epoch: 8900     time:     4388 Seconds
+mean = 9715     max = 27108   
+
+
+epoch: 9000     time:     4441 Seconds
+mean = 9707     max = 27712   
+
+16     100.0 % (0.2 %)
+64     99.8 % (0.2 %)
+128    99.6 % (2.5 %)
+256    97.1 % (13.1 %)
+512    84.0 % (35.4 %)
+1024   48.6 % (46.8 %)
+2048   1.8 % (1.8 %)
+
+epoch: 9100     time:     4491 Seconds
+mean = 8824     max = 25336   
+
+
+epoch: 9200     time:     4544 Seconds
+mean = 9861     max = 27192   
+
+
+epoch: 9300     time:     4597 Seconds
+mean = 9592     max = 22976   
+
+
+epoch: 9400     time:     4646 Seconds
+mean = 8755     max = 19168   
+
+
+epoch: 9500     time:     4695 Seconds
+mean = 8847     max = 26180   
+
+
+epoch: 9600     time:     4746 Seconds
+mean = 9258     max = 27016   
+
+
+epoch: 9700     time:     4802 Seconds
+mean = 10221    max = 27128   
+
+
+epoch: 9800     time:     4853 Seconds
+mean = 9428     max = 26868   
+
+
+epoch: 9900     time:     4907 Seconds
+mean = 9765     max = 25472   
+
+
+epoch: 10000    time:     4952 Seconds
+mean = 7865     max = 25524   
+
+32     100.0 % (0.3 %)
+64     99.7 % (0.4 %)
+128    99.3 % (3.1 %)
+256    96.2 % (13.5 %)
+512    82.7 % (37.6 %)
+1024   45.1 % (42.3 %)
+2048   2.8 % (2.8 %)
+
+epoch: 10100    time:     4998 Seconds
+mean = 7844     max = 26176   
+
+
+epoch: 10200    time:     5053 Seconds
+mean = 10094    max = 27564   
+
+
+epoch: 10300    time:     5107 Seconds
+mean = 9978     max = 31456   
+
+
+epoch: 10400    time:     5159 Seconds
+mean = 9609     max = 27156   
+
+
+epoch: 10500    time:     5208 Seconds
+mean = 8610     max = 26740   
+
+
+epoch: 10600    time:     5260 Seconds
+mean = 9425     max = 23416   
+
+
+epoch: 10700    time:     5312 Seconds
+mean = 9379     max = 26572   
+
+
+epoch: 10800    time:     5363 Seconds
+mean = 9273     max = 18396   
+
+
+epoch: 10900    time:     5414 Seconds
+mean = 9269     max = 27120   
+
+
+epoch: 11000    time:     5471 Seconds
+mean = 10634    max = 27240   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.2 %)
+128    99.7 % (3.2 %)
+256    96.5 % (14.1 %)
+512    82.4 % (37.8 %)
+1024   44.6 % (40.9 %)
+2048   3.7 % (3.7 %)
+
+epoch: 11100    time:     5528 Seconds
+mean = 10343    max = 29696   
+
+
+epoch: 11200    time:     5579 Seconds
+mean = 9349     max = 27452   
+
+
+epoch: 11300    time:     5631 Seconds
+mean = 9364     max = 29636   
+
+
+epoch: 11400    time:     5688 Seconds
+mean = 10605    max = 30548   
+
+
+epoch: 11500    time:     5736 Seconds
+mean = 8448     max = 30112   
+
+
+epoch: 11600    time:     5790 Seconds
+mean = 9945     max = 26488   
+
+
+epoch: 11700    time:     5846 Seconds
+mean = 9962     max = 26424   
+
+
+epoch: 11800    time:     5897 Seconds
+mean = 9222     max = 31976   
+
+
+epoch: 11900    time:     5955 Seconds
+mean = 10816    max = 26844   
+
+
+epoch: 12000    time:     6015 Seconds
+mean = 10826    max = 29040   
+
+64     100.0 % (0.2 %)
+128    99.8 % (2.8 %)
+256    97.0 % (12.1 %)
+512    84.9 % (36.9 %)
+1024   48.0 % (43.7 %)
+2048   4.3 % (4.3 %)
+
+epoch: 12100    time:     6069 Seconds
+mean = 9836     max = 25460   
+
+
+epoch: 12200    time:     6129 Seconds
+mean = 11046    max = 24112   
+
+
+epoch: 12300    time:     6178 Seconds
+mean = 9427     max = 26064   
+
+
+epoch: 12400    time:     6230 Seconds
+mean = 9937     max = 24168   
+
+
+epoch: 12500    time:     6281 Seconds
+mean = 9896     max = 24768   
+
+
+epoch: 12600    time:     6330 Seconds
+mean = 9252     max = 25060   
+
+
+epoch: 12700    time:     6382 Seconds
+mean = 9833     max = 26952   
+
+
+epoch: 12800    time:     6430 Seconds
+mean = 9199     max = 26180   
+
+
+epoch: 12900    time:     6479 Seconds
+mean = 9364     max = 16192   
+
+
+epoch: 13000    time:     6530 Seconds
+mean = 9960     max = 30332   
+
+32     100.0 % (0.2 %)
+64     99.8 % (0.2 %)
+128    99.6 % (2.0 %)
+256    97.6 % (11.5 %)
+512    86.1 % (37.0 %)
+1024   49.1 % (45.2 %)
+2048   3.9 % (3.9 %)
+
+epoch: 13100    time:     6582 Seconds
+mean = 10131    max = 25616   
+
+
+epoch: 13200    time:     6631 Seconds
+mean = 9509     max = 30372   
+
+
+epoch: 13300    time:     6678 Seconds
+mean = 9062     max = 26692   
+
+
+epoch: 13400    time:     6727 Seconds
+mean = 9428     max = 24072   
+
+
+epoch: 13500    time:     6774 Seconds
+mean = 9125     max = 27092   
+
+
+epoch: 13600    time:     6827 Seconds
+mean = 10330    max = 30304   
+
+
+epoch: 13700    time:     6881 Seconds
+mean = 10659    max = 24796   
+
+
+epoch: 13800    time:     6930 Seconds
+mean = 9562     max = 24060   
+
+
+epoch: 13900    time:     6977 Seconds
+mean = 8917     max = 31796   
+
+
+epoch: 14000    time:     7025 Seconds
+mean = 9320     max = 25444   
+
+32     100.0 % (0.2 %)
+64     99.8 % (0.3 %)
+128    99.5 % (2.5 %)
+256    97.0 % (13.3 %)
+512    83.7 % (37.1 %)
+1024   46.6 % (41.9 %)
+2048   4.7 % (4.7 %)
+
+epoch: 14100    time:     7079 Seconds
+mean = 10696    max = 29684   
+
+
+epoch: 14200    time:     7132 Seconds
+mean = 10459    max = 28112   
+
+
+epoch: 14300    time:     7180 Seconds
+mean = 9190     max = 25704   
+
+
+epoch: 14400    time:     7232 Seconds
+mean = 10100    max = 22216   
+
+
+epoch: 14500    time:     7281 Seconds
+mean = 9498     max = 25120   
+
+
+epoch: 14600    time:     7330 Seconds
+mean = 9531     max = 26916   
+
+
+epoch: 14700    time:     7382 Seconds
+mean = 10001    max = 25876   
+
+
+epoch: 14800    time:     7435 Seconds
+mean = 10576    max = 31024   
+
+
+epoch: 14900    time:     7489 Seconds
+mean = 10469    max = 27260   
+
+
+epoch: 15000    time:     7541 Seconds
+mean = 10108    max = 26516   
+
+64     100.0 % (0.3 %)
+128    99.7 % (3.5 %)
+256    96.2 % (11.0 %)
+512    85.2 % (33.0 %)
+1024   52.2 % (47.4 %)
+2048   4.8 % (4.8 %)
+
+epoch: 15100    time:     7589 Seconds
+mean = 9435     max = 25604   
+
+
+epoch: 15200    time:     7639 Seconds
+mean = 9528     max = 27304   
+
+
+epoch: 15300    time:     7689 Seconds
+mean = 9692     max = 27488   
+
+
+epoch: 15400    time:     7740 Seconds
+mean = 9972     max = 23284   
+
+
+epoch: 15500    time:     7789 Seconds
+mean = 9528     max = 25876   
+
+
+epoch: 15600    time:     7838 Seconds
+mean = 9287     max = 26432   
+
+
+epoch: 15700    time:     7889 Seconds
+mean = 10063    max = 26288   
+
+
+epoch: 15800    time:     7940 Seconds
+mean = 10008    max = 31996   
+
+
+epoch: 15900    time:     7994 Seconds
+mean = 10698    max = 26860   
+
+
+epoch: 16000    time:     8048 Seconds
+mean = 10575    max = 26820   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.6 %)
+128    99.3 % (2.6 %)
+256    96.7 % (12.6 %)
+512    84.1 % (35.2 %)
+1024   48.9 % (44.0 %)
+2048   4.9 % (4.9 %)
+
+epoch: 16100    time:     8097 Seconds
+mean = 9368     max = 26156   
+
+
+epoch: 16200    time:     8144 Seconds
+mean = 9193     max = 26544   
+
+
+epoch: 16300    time:     8195 Seconds
+mean = 9717     max = 27264   
+
+
+epoch: 16400    time:     8246 Seconds
+mean = 10115    max = 26864   
+
+
+epoch: 16500    time:     8292 Seconds
+mean = 8729     max = 25832   
+
+
+epoch: 16600    time:     8343 Seconds
+mean = 9922     max = 26708   
+
+
+epoch: 16700    time:     8393 Seconds
+mean = 9740     max = 26600   
+
+
+epoch: 16800    time:     8445 Seconds
+mean = 9826     max = 24640   
+
+
+epoch: 16900    time:     8496 Seconds
+mean = 10200    max = 24788   
+
+
+epoch: 17000    time:     8543 Seconds
+mean = 8851     max = 23576   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.3 %)
+128    99.6 % (2.9 %)
+256    96.7 % (12.1 %)
+512    84.6 % (39.3 %)
+1024   45.3 % (40.3 %)
+2048   5.0 % (5.0 %)
+
+epoch: 17100    time:     8593 Seconds
+mean = 9836     max = 27912   
+
+
+epoch: 17200    time:     8644 Seconds
+mean = 9895     max = 26552   
+
+
+epoch: 17300    time:     8691 Seconds
+mean = 8893     max = 25600   
+
+
+epoch: 17400    time:     8745 Seconds
+mean = 10734    max = 27012   
+
+
+epoch: 17500    time:     8794 Seconds
+mean = 9411     max = 23404   
+
+
+epoch: 17600    time:     8847 Seconds
+mean = 10375    max = 25460   
+
+
+epoch: 17700    time:     8899 Seconds
+mean = 10090    max = 23512   
+
+
+epoch: 17800    time:     8949 Seconds
+mean = 9897     max = 25376   
+
+
+epoch: 17900    time:     8998 Seconds
+mean = 9383     max = 25200   
+
+
+epoch: 18000    time:     9048 Seconds
+mean = 9687     max = 25380   
+
+128    100.0 % (2.6 %)
+256    97.4 % (12.5 %)
+512    84.9 % (34.2 %)
+1024   50.7 % (46.8 %)
+2048   3.9 % (3.9 %)
+
+epoch: 18100    time:     9100 Seconds
+mean = 10304    max = 26024   
+
+
+epoch: 18200    time:     9150 Seconds
+mean = 9543     max = 27128   
+
+
+epoch: 18300    time:     9198 Seconds
+mean = 9324     max = 26780   
+
+
+epoch: 18400    time:     9248 Seconds
+mean = 9699     max = 24656   
+
+
+epoch: 18500    time:     9300 Seconds
+mean = 10064    max = 27228   
+
+
+epoch: 18600    time:     9348 Seconds
+mean = 9287     max = 27224   
+
+
+epoch: 18700    time:     9395 Seconds
+mean = 9086     max = 26320   
+
+
+epoch: 18800    time:     9441 Seconds
+mean = 8683     max = 19732   
+
+
+epoch: 18900    time:     9487 Seconds
+mean = 8773     max = 24904   
+
+
+epoch: 19000    time:     9537 Seconds
+mean = 9443     max = 24432   
+
+16     100.0 % (0.1 %)
+64     99.9 % (0.3 %)
+128    99.6 % (3.0 %)
+256    96.6 % (14.0 %)
+512    82.6 % (35.3 %)
+1024   47.3 % (44.1 %)
+2048   3.2 % (3.2 %)
+
+epoch: 19100    time:     9589 Seconds
+mean = 10195    max = 27304   
+
+
+epoch: 19200    time:     9642 Seconds
+mean = 10409    max = 23260   
+
+
+epoch: 19300    time:     9691 Seconds
+mean = 9325     max = 25416   
+
+
+epoch: 19400    time:     9739 Seconds
+mean = 9358     max = 23572   
+
+
+epoch: 19500    time:     9786 Seconds
+mean = 8891     max = 24600   
+
+
+epoch: 19600    time:     9836 Seconds
+mean = 9735     max = 25488   
+
+
+epoch: 19700    time:     9889 Seconds
+mean = 10343    max = 26800   
+
+
+epoch: 19800    time:     9936 Seconds
+mean = 9020     max = 25300   
+
+
+epoch: 19900    time:     9992 Seconds
+mean = 10798    max = 24892   
+
+
+epoch: 20000    time:    10040 Seconds
+mean = 9092     max = 25136   
+
+64     100.0 % (0.3 %)
+128    99.7 % (3.2 %)
+256    96.5 % (12.6 %)
+512    83.9 % (34.3 %)
+1024   49.6 % (46.8 %)
+2048   2.8 % (2.8 %)
+
+epoch: 20100    time:    10087 Seconds
+mean = 8951     max = 22948   
+
+
+epoch: 20200    time:    10134 Seconds
+mean = 8888     max = 25984   
+
+
+epoch: 20300    time:    10188 Seconds
+mean = 10771    max = 27088   
+
+
+epoch: 20400    time:    10238 Seconds
+mean = 9612     max = 26488   
+
+
+epoch: 20500    time:    10289 Seconds
+mean = 9995     max = 29696   
+
+
+epoch: 20600    time:    10343 Seconds
+mean = 10535    max = 26924   
+
+
+epoch: 20700    time:    10395 Seconds
+mean = 10122    max = 30472   
+
+
+epoch: 20800    time:    10443 Seconds
+mean = 9215     max = 32860   
+
+
+epoch: 20900    time:    10491 Seconds
+mean = 9044     max = 27172   
+
+
+epoch: 21000    time:    10540 Seconds
+mean = 9474     max = 16840   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.4 %)
+128    99.5 % (2.6 %)
+256    96.9 % (12.0 %)
+512    84.9 % (38.4 %)
+1024   46.5 % (42.9 %)
+2048   3.6 % (3.6 %)
+
+epoch: 21100    time:    10588 Seconds
+mean = 9108     max = 24984   
+
+
+epoch: 21200    time:    10636 Seconds
+mean = 9186     max = 26324   
+
+
+epoch: 21300    time:    10685 Seconds
+mean = 9509     max = 29112   
+
+
+epoch: 21400    time:    10736 Seconds
+mean = 9772     max = 26744   
+
+
+epoch: 21500    time:    10784 Seconds
+mean = 9116     max = 21308   
+
+
+epoch: 21600    time:    10840 Seconds
+mean = 11244    max = 27228   
+
+
+epoch: 21700    time:    10888 Seconds
+mean = 9107     max = 27804   
+
+
+epoch: 21800    time:    10943 Seconds
+mean = 11055    max = 29688   
+
+
+epoch: 21900    time:    10990 Seconds
+mean = 8862     max = 16728   
+
+
+epoch: 22000    time:    11039 Seconds
+mean = 9564     max = 26812   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.2 %)
+128    99.7 % (3.5 %)
+256    96.2 % (12.8 %)
+512    83.4 % (35.7 %)
+1024   47.7 % (44.0 %)
+2048   3.7 % (3.7 %)
+
+epoch: 22100    time:    11090 Seconds
+mean = 9711     max = 23460   
+
+
+epoch: 22200    time:    11142 Seconds
+mean = 10107    max = 30608   
+
+
+epoch: 22300    time:    11193 Seconds
+mean = 9915     max = 27536   
+
+
+epoch: 22400    time:    11244 Seconds
+mean = 10052    max = 30328   
+
+
+epoch: 22500    time:    11294 Seconds
+mean = 9467     max = 27920   
+
+
+epoch: 22600    time:    11343 Seconds
+mean = 9626     max = 27368   
+
+
+epoch: 22700    time:    11390 Seconds
+mean = 8859     max = 27460   
+
+
+epoch: 22800    time:    11441 Seconds
+mean = 9996     max = 27028   
+
+
+epoch: 22900    time:    11492 Seconds
+mean = 9792     max = 30192   
+
+
+epoch: 23000    time:    11548 Seconds
+mean = 11038    max = 29952   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.1 %)
+128    99.8 % (2.6 %)
+256    97.2 % (12.8 %)
+512    84.4 % (36.0 %)
+1024   48.4 % (44.1 %)
+2048   4.3 % (4.3 %)
+
+epoch: 23100    time:    11597 Seconds
+mean = 9485     max = 26452   
+
+
+epoch: 23200    time:    11646 Seconds
+mean = 9321     max = 30828   
+
+
+epoch: 23300    time:    11699 Seconds
+mean = 10396    max = 27636   
+
+
+epoch: 23400    time:    11749 Seconds
+mean = 9496     max = 25560   
+
+
+epoch: 23500    time:    11796 Seconds
+mean = 9128     max = 26992   
+
+
+epoch: 23600    time:    11849 Seconds
+mean = 10265    max = 27164   
+
+
+epoch: 23700    time:    11898 Seconds
+mean = 9585     max = 23016   
+
+
+epoch: 23800    time:    11949 Seconds
+mean = 9821     max = 24048   
+
+
+epoch: 23900    time:    11999 Seconds
+mean = 9701     max = 27192   
+
+
+epoch: 24000    time:    12056 Seconds
+mean = 11406    max = 34576   
+
+64     100.0 % (0.5 %)
+128    99.5 % (2.8 %)
+256    96.7 % (12.9 %)
+512    83.8 % (33.6 %)
+1024   50.2 % (46.3 %)
+2048   3.9 % (3.9 %)
+
+epoch: 24100    time:    12100 Seconds
+mean = 8236     max = 16136   
+
+
+epoch: 24200    time:    12149 Seconds
+mean = 9483     max = 25164   
+
+
+epoch: 24300    time:    12197 Seconds
+mean = 9252     max = 30388   
+
+
+epoch: 24400    time:    12248 Seconds
+mean = 9828     max = 23348   
+
+
+epoch: 24500    time:    12302 Seconds
+mean = 10623    max = 36224   
+
+
+epoch: 24600    time:    12350 Seconds
+mean = 9182     max = 30124   
+
+
+epoch: 24700    time:    12398 Seconds
+mean = 9145     max = 27148   
+
+
+epoch: 24800    time:    12446 Seconds
+mean = 9002     max = 23000   
+
+
+epoch: 24900    time:    12497 Seconds
+mean = 9974     max = 25616   
+
+
+epoch: 25000    time:    12545 Seconds
+mean = 8955     max = 27244   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.3 %)
+128    99.6 % (2.9 %)
+256    96.7 % (15.0 %)
+512    81.7 % (36.8 %)
+1024   44.9 % (41.5 %)
+2048   3.4 % (3.4 %)
+
+epoch: 25100    time:    12594 Seconds
+mean = 9488     max = 26296   
+
+
+epoch: 25200    time:    12643 Seconds
+mean = 9433     max = 24716   
+
+
+epoch: 25300    time:    12693 Seconds
+mean = 9640     max = 23684   
+
+
+epoch: 25400    time:    12742 Seconds
+mean = 9469     max = 27816   
+
+
+epoch: 25500    time:    12795 Seconds
+mean = 10255    max = 24844   
+
+
+epoch: 25600    time:    12845 Seconds
+mean = 9669     max = 24284   
+
+
+epoch: 25700    time:    12891 Seconds
+mean = 8647     max = 16572   
+
+
+epoch: 25800    time:    12941 Seconds
+mean = 9541     max = 27516   
+
+
+epoch: 25900    time:    12988 Seconds
+mean = 9140     max = 26060   
+
+
+epoch: 26000    time:    13038 Seconds
+mean = 9648     max = 24524   
+
+32     100.0 % (0.2 %)
+64     99.8 % (0.1 %)
+128    99.7 % (2.7 %)
+256    97.0 % (13.2 %)
+512    83.8 % (38.1 %)
+1024   45.7 % (42.5 %)
+2048   3.2 % (3.2 %)
+
+epoch: 26100    time:    13088 Seconds
+mean = 9758     max = 23896   
+
+
+epoch: 26200    time:    13135 Seconds
+mean = 8911     max = 21064   
+
+
+epoch: 26300    time:    13183 Seconds
+mean = 9245     max = 25172   
+
+
+epoch: 26400    time:    13232 Seconds
+mean = 9432     max = 26372   
+
+
+epoch: 26500    time:    13279 Seconds
+mean = 8935     max = 21148   
+
+
+epoch: 26600    time:    13327 Seconds
+mean = 9283     max = 24848   
+
+
+epoch: 26700    time:    13376 Seconds
+mean = 9287     max = 28412   
+
+
+epoch: 26800    time:    13424 Seconds
+mean = 9274     max = 23056   
+
+
+epoch: 26900    time:    13470 Seconds
+mean = 8903     max = 25648   
+
+
+epoch: 27000    time:    13522 Seconds
+mean = 10161    max = 24908   
+
+16     100.0 % (0.1 %)
+32     99.9 % (0.1 %)
+64     99.8 % (0.5 %)
+128    99.3 % (3.6 %)
+256    95.7 % (14.7 %)
+512    81.0 % (34.3 %)
+1024   46.7 % (43.3 %)
+2048   3.4 % (3.4 %)
+
+epoch: 27100    time:    13576 Seconds
+mean = 10428    max = 26540   
+
+
+epoch: 27200    time:    13623 Seconds
+mean = 9259     max = 26864   
+
+
+epoch: 27300    time:    13675 Seconds
+mean = 9975     max = 26440   
+
+
+epoch: 27400    time:    13727 Seconds
+mean = 10162    max = 24904   
+
+
+epoch: 27500    time:    13774 Seconds
+mean = 9041     max = 24704   
+
+
+epoch: 27600    time:    13826 Seconds
+mean = 10154    max = 26116   
+
+
+epoch: 27700    time:    13875 Seconds
+mean = 9267     max = 24028   
+
+
+epoch: 27800    time:    13924 Seconds
+mean = 9695     max = 25064   
+
+
+epoch: 27900    time:    13974 Seconds
+mean = 9422     max = 27828   
+
+
+epoch: 28000    time:    14023 Seconds
+mean = 9428     max = 16952   
+
+64     100.0 % (0.6 %)
+128    99.4 % (3.6 %)
+256    95.8 % (12.9 %)
+512    82.9 % (35.3 %)
+1024   47.6 % (43.5 %)
+2048   4.1 % (4.1 %)
+
+epoch: 28100    time:    14070 Seconds
+mean = 9083     max = 15952   
+
+
+epoch: 28200    time:    14118 Seconds
+mean = 9162     max = 22780   
+
+
+epoch: 28300    time:    14172 Seconds
+mean = 10498    max = 25524   
+
+
+epoch: 28400    time:    14222 Seconds
+mean = 9737     max = 30188   
+
+
+epoch: 28500    time:    14273 Seconds
+mean = 9605     max = 23872   
+
+
+epoch: 28600    time:    14324 Seconds
+mean = 9847     max = 29764   
+
+
+epoch: 28700    time:    14374 Seconds
+mean = 9709     max = 31348   
+
+
+epoch: 28800    time:    14424 Seconds
+mean = 9767     max = 26620   
+
+
+epoch: 28900    time:    14474 Seconds
+mean = 9743     max = 27884   
+
+
+epoch: 29000    time:    14523 Seconds
+mean = 9391     max = 26848   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.6 %)
+128    99.3 % (2.6 %)
+256    96.7 % (12.7 %)
+512    84.0 % (36.4 %)
+1024   47.6 % (43.9 %)
+2048   3.7 % (3.7 %)
+
+epoch: 29100    time:    14580 Seconds
+mean = 11178    max = 31592   
+
+
+epoch: 29200    time:    14627 Seconds
+mean = 9093     max = 25352   
+
+
+epoch: 29300    time:    14683 Seconds
+mean = 10926    max = 27424   
+
+
+epoch: 29400    time:    14731 Seconds
+mean = 9308     max = 30416   
+
+
+epoch: 29500    time:    14782 Seconds
+mean = 10082    max = 25320   
+
+
+epoch: 29600    time:    14830 Seconds
+mean = 9008     max = 25080   
+
+
+epoch: 29700    time:    14884 Seconds
+mean = 10929    max = 32092   
+
+
+epoch: 29800    time:    14932 Seconds
+mean = 9175     max = 26704   
+
+
+epoch: 29900    time:    14983 Seconds
+mean = 9766     max = 27340   
+
+
+epoch: 30000    time:    15034 Seconds
+mean = 9776     max = 26256   
+
+32     100.0 % (0.2 %)
+64     99.8 % (0.7 %)
+128    99.1 % (3.3 %)
+256    95.8 % (12.2 %)
+512    83.6 % (36.6 %)
+1024   47.0 % (41.2 %)
+2048   5.8 % (5.8 %)
+
+epoch: 30100    time:    15087 Seconds
+mean = 10412    max = 28560   
+
+
+epoch: 30200    time:    15140 Seconds
+mean = 10518    max = 25212   
+
+
+epoch: 30300    time:    15189 Seconds
+mean = 9278     max = 26056   
+
+
+epoch: 30400    time:    15238 Seconds
+mean = 9453     max = 27220   
+
+
+epoch: 30500    time:    15288 Seconds
+mean = 9686     max = 21640   
+
+
+epoch: 30600    time:    15342 Seconds
+mean = 10440    max = 27048   
+
+
+epoch: 30700    time:    15391 Seconds
+mean = 9460     max = 23732   
+
+
+epoch: 30800    time:    15436 Seconds
+mean = 8358     max = 26956   
+
+
+epoch: 30900    time:    15486 Seconds
+mean = 9763     max = 25812   
+
+
+epoch: 31000    time:    15537 Seconds
+mean = 9808     max = 26784   
+
+32     100.0 % (0.2 %)
+64     99.8 % (0.2 %)
+128    99.6 % (2.3 %)
+256    97.3 % (13.4 %)
+512    83.9 % (36.0 %)
+1024   47.9 % (44.3 %)
+2048   3.6 % (3.6 %)
+
+epoch: 31100    time:    15588 Seconds
+mean = 10021    max = 25508   
+
+
+epoch: 31200    time:    15642 Seconds
+mean = 10455    max = 31452   
+
+
+epoch: 31300    time:    15687 Seconds
+mean = 8310     max = 27400   
+
+
+epoch: 31400    time:    15735 Seconds
+mean = 9230     max = 26056   
+
+
+epoch: 31500    time:    15787 Seconds
+mean = 10365    max = 29796   
+
+
+epoch: 31600    time:    15841 Seconds
+mean = 10425    max = 27400   
+
+
+epoch: 31700    time:    15888 Seconds
+mean = 8981     max = 27176   
+
+
+epoch: 31800    time:    15939 Seconds
+mean = 9865     max = 25016   
+
+
+epoch: 31900    time:    15987 Seconds
+mean = 9110     max = 26980   
+
+
+epoch: 32000    time:    16037 Seconds
+mean = 9784     max = 25180   
+
+64     100.0 % (0.4 %)
+128    99.6 % (3.5 %)
+256    96.1 % (15.8 %)
+512    80.3 % (33.8 %)
+1024   46.5 % (42.2 %)
+2048   4.3 % (4.3 %)
+
+epoch: 32100    time:    16089 Seconds
+mean = 9549     max = 31460   
+
+
+epoch: 32200    time:    16138 Seconds
+mean = 8732     max = 24976   
+
+
+epoch: 32300    time:    16199 Seconds
+mean = 11716    max = 31596   
+
+
+epoch: 32400    time:    16252 Seconds
+mean = 9620     max = 27292   
+
+
+epoch: 32500    time:    16305 Seconds
+mean = 9544     max = 30216   
+
+
+epoch: 32600    time:    16360 Seconds
+mean = 10275    max = 30552   
+
+
+epoch: 32700    time:    16417 Seconds
+mean = 10546    max = 27248   
+
+
+epoch: 32800    time:    16470 Seconds
+mean = 9708     max = 26712   
+
+
+epoch: 32900    time:    16526 Seconds
+mean = 10415    max = 27084   
+
+
+epoch: 33000    time:    16581 Seconds
+mean = 10077    max = 26856   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.6 %)
+128    99.3 % (2.6 %)
+256    96.7 % (12.7 %)
+512    84.0 % (35.4 %)
+1024   48.6 % (43.1 %)
+2048   5.5 % (5.5 %)
+
+epoch: 33100    time:    16637 Seconds
+mean = 10183    max = 25272   
+
+
+epoch: 33200    time:    16691 Seconds
+mean = 9733     max = 25388   
+
+
+epoch: 33300    time:    16740 Seconds
+mean = 8925     max = 26848   
+
+
+epoch: 33400    time:    16794 Seconds
+mean = 9937     max = 25308   
+
+
+epoch: 33500    time:    16852 Seconds
+mean = 10939    max = 26944   
+
+
+epoch: 33600    time:    16900 Seconds
+mean = 8588     max = 24716   
+
+
+epoch: 33700    time:    16950 Seconds
+mean = 8984     max = 26920   
+
+
+epoch: 33800    time:    17003 Seconds
+mean = 9774     max = 27124   
+
+
+epoch: 33900    time:    17056 Seconds
+mean = 9609     max = 23300   
+
+
+epoch: 34000    time:    17105 Seconds
+mean = 8628     max = 24464   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.1 %)
+128    99.8 % (2.4 %)
+256    97.4 % (15.2 %)
+512    82.2 % (35.1 %)
+1024   47.1 % (43.2 %)
+2048   3.9 % (3.9 %)
+
+epoch: 34100    time:    17156 Seconds
+mean = 9376     max = 30884   
+
+
+epoch: 34200    time:    17208 Seconds
+mean = 9466     max = 27536   
+
+
+epoch: 34300    time:    17264 Seconds
+mean = 10272    max = 29772   
+
+
+epoch: 34400    time:    17316 Seconds
+mean = 9602     max = 26756   
+
+
+epoch: 34500    time:    17370 Seconds
+mean = 9718     max = 27268   
+
+
+epoch: 34600    time:    17425 Seconds
+mean = 10306    max = 26724   
+
+
+epoch: 34700    time:    17476 Seconds
+mean = 9122     max = 27096   
+
+
+epoch: 34800    time:    17528 Seconds
+mean = 9539     max = 31996   
+
+
+epoch: 34900    time:    17582 Seconds
+mean = 9744     max = 24040   
+
+
+epoch: 35000    time:    17633 Seconds
+mean = 9182     max = 27220   
+
+16     100.0 % (0.1 %)
+32     99.9 % (0.1 %)
+64     99.8 % (0.3 %)
+128    99.5 % (2.1 %)
+256    97.4 % (15.4 %)
+512    82.0 % (35.8 %)
+1024   46.2 % (42.0 %)
+2048   4.2 % (4.2 %)
+
+epoch: 35100    time:    17692 Seconds
+mean = 11137    max = 29064   
+
+
+epoch: 35200    time:    17743 Seconds
+mean = 9196     max = 27020   
+
+
+epoch: 35300    time:    17799 Seconds
+mean = 10421    max = 30352   
+
+
+epoch: 35400    time:    17846 Seconds
+mean = 8366     max = 18020   
+
+
+epoch: 35500    time:    17894 Seconds
+mean = 8518     max = 26704   
+
+
+epoch: 35600    time:    17945 Seconds
+mean = 9286     max = 27152   
+
+
+epoch: 35700    time:    17994 Seconds
+mean = 8908     max = 30964   
+
+
+epoch: 35800    time:    18047 Seconds
+mean = 9588     max = 27360   
+
+
+epoch: 35900    time:    18103 Seconds
+mean = 10307    max = 25444   
+
+
+epoch: 36000    time:    18156 Seconds
+mean = 9587     max = 25976   
+
+8      100.0 % (0.1 %)
+16     99.9 % (0.1 %)
+32     99.8 % (0.3 %)
+64     99.5 % (0.2 %)
+128    99.3 % (2.3 %)
+256    97.0 % (14.8 %)
+512    82.2 % (33.6 %)
+1024   48.6 % (45.1 %)
+2048   3.5 % (3.5 %)
+
+epoch: 36100    time:    18210 Seconds
+mean = 9959     max = 26144   
+
+
+epoch: 36200    time:    18260 Seconds
+mean = 8956     max = 22972   
+
+
+epoch: 36300    time:    18312 Seconds
+mean = 9469     max = 27184   
+
+
+epoch: 36400    time:    18366 Seconds
+mean = 9695     max = 22916   
+
+
+epoch: 36500    time:    18418 Seconds
+mean = 9452     max = 27232   
+
+
+epoch: 36600    time:    18472 Seconds
+mean = 9874     max = 24812   
+
+
+epoch: 36700    time:    18527 Seconds
+mean = 10082    max = 27168   
+
+
+epoch: 36800    time:    18581 Seconds
+mean = 9818     max = 27872   
+
+
+epoch: 36900    time:    18632 Seconds
+mean = 9177     max = 25288   
+
+
+epoch: 37000    time:    18689 Seconds
+mean = 10449    max = 29968   
+
+32     100.0 % (0.2 %)
+64     99.8 % (0.2 %)
+128    99.6 % (2.9 %)
+256    96.7 % (11.9 %)
+512    84.8 % (36.3 %)
+1024   48.5 % (45.7 %)
+2048   2.8 % (2.8 %)
+
+epoch: 37100    time:    18744 Seconds
+mean = 10278    max = 27844   
+
+
+epoch: 37200    time:    18803 Seconds
+mean = 11058    max = 33692   
+
+
+epoch: 37300    time:    18853 Seconds
+mean = 8960     max = 26512   
+
+
+epoch: 37400    time:    18903 Seconds
+mean = 8848     max = 25684   
+
+
+epoch: 37500    time:    18961 Seconds
+mean = 10704    max = 25768   
+
+
+epoch: 37600    time:    19018 Seconds
+mean = 10613    max = 28796   
+
+
+epoch: 37700    time:    19071 Seconds
+mean = 9738     max = 25080   
+
+
+epoch: 37800    time:    19122 Seconds
+mean = 9087     max = 27264   
+
+
+epoch: 37900    time:    19174 Seconds
+mean = 9488     max = 27484   
+
+
+epoch: 38000    time:    19226 Seconds
+mean = 9644     max = 32208   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.3 %)
+128    99.6 % (3.5 %)
+256    96.1 % (12.7 %)
+512    83.4 % (36.8 %)
+1024   46.6 % (41.2 %)
+2048   5.4 % (5.4 %)
+
+epoch: 38100    time:    19282 Seconds
+mean = 10230    max = 26760   
+
+
+epoch: 38200    time:    19335 Seconds
+mean = 9650     max = 26224   
+
+
+epoch: 38300    time:    19383 Seconds
+mean = 8646     max = 24100   
+
+
+epoch: 38400    time:    19444 Seconds
+mean = 11521    max = 35072   
+
+
+epoch: 38500    time:    19494 Seconds
+mean = 8681     max = 27116   
+
+
+epoch: 38600    time:    19549 Seconds
+mean = 10038    max = 31172   
+
+
+epoch: 38700    time:    19607 Seconds
+mean = 11019    max = 29564   
+
+
+epoch: 38800    time:    19660 Seconds
+mean = 9705     max = 29732   
+
+
+epoch: 38900    time:    19711 Seconds
+mean = 9213     max = 25228   
+
+
+epoch: 39000    time:    19764 Seconds
+mean = 9574     max = 27464   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.2 %)
+128    99.7 % (2.8 %)
+256    96.9 % (14.3 %)
+512    82.6 % (35.9 %)
+1024   46.7 % (41.0 %)
+2048   5.7 % (5.7 %)
+
+epoch: 39100    time:    19819 Seconds
+mean = 10143    max = 30788   
+
+
+epoch: 39200    time:    19873 Seconds
+mean = 9945     max = 25864   
+
+
+epoch: 39300    time:    19929 Seconds
+mean = 10594    max = 27096   
+
+
+epoch: 39400    time:    19984 Seconds
+mean = 10057    max = 27388   
+
+
+epoch: 39500    time:    20035 Seconds
+mean = 9103     max = 21400   
+
+
+epoch: 39600    time:    20084 Seconds
+mean = 8932     max = 24792   
+
+
+epoch: 39700    time:    20137 Seconds
+mean = 9711     max = 29860   
+
+
+epoch: 39800    time:    20188 Seconds
+mean = 9183     max = 25556   
+
+
+epoch: 39900    time:    20242 Seconds
+mean = 9965     max = 30408   
+
+
+epoch: 40000    time:    20298 Seconds
+mean = 10387    max = 29528   
+
+64     100.0 % (0.4 %)
+128    99.6 % (2.3 %)
+256    97.3 % (14.0 %)
+512    83.3 % (34.0 %)
+1024   49.3 % (45.3 %)
+2048   4.0 % (4.0 %)
+
+epoch: 40100    time:    20350 Seconds
+mean = 9294     max = 24632   
+
+
+epoch: 40200    time:    20405 Seconds
+mean = 10136    max = 26464   
+
+
+epoch: 40300    time:    20456 Seconds
+mean = 9296     max = 25456   
+
+
+epoch: 40400    time:    20514 Seconds
+mean = 10470    max = 31968   
+
+
+epoch: 40500    time:    20567 Seconds
+mean = 9626     max = 25872   
+
+
+epoch: 40600    time:    20618 Seconds
+mean = 9251     max = 26468   
+
+
+epoch: 40700    time:    20672 Seconds
+mean = 9945     max = 27108   
+
+
+epoch: 40800    time:    20728 Seconds
+mean = 10124    max = 26912   
+
+
+epoch: 40900    time:    20781 Seconds
+mean = 9796     max = 27020   
+
+
+epoch: 41000    time:    20832 Seconds
+mean = 9092     max = 27112   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.2 %)
+128    99.7 % (3.1 %)
+256    96.6 % (13.0 %)
+512    83.6 % (35.9 %)
+1024   47.7 % (43.7 %)
+2048   4.0 % (4.0 %)
+
+epoch: 41100    time:    20885 Seconds
+mean = 9667     max = 27984   
+
+
+epoch: 41200    time:    20939 Seconds
+mean = 9892     max = 25116   
+
+
+epoch: 41300    time:    20990 Seconds
+mean = 9111     max = 17636   
+
+
+epoch: 41400    time:    21040 Seconds
+mean = 9043     max = 30404   
+
+
+epoch: 41500    time:    21099 Seconds
+mean = 10924    max = 31912   
+
+
+epoch: 41600    time:    21150 Seconds
+mean = 9369     max = 27940   
+
+
+epoch: 41700    time:    21205 Seconds
+mean = 10233    max = 27264   
+
+
+epoch: 41800    time:    21259 Seconds
+mean = 9876     max = 26436   
+
+
+epoch: 41900    time:    21306 Seconds
+mean = 8202     max = 16500   
+
+
+epoch: 42000    time:    21359 Seconds
+mean = 9681     max = 26720   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.3 %)
+128    99.6 % (2.1 %)
+256    97.5 % (11.3 %)
+512    86.2 % (39.3 %)
+1024   46.9 % (43.1 %)
+2048   3.8 % (3.8 %)
+
+epoch: 42100    time:    21413 Seconds
+mean = 9879     max = 26488   
+
+
+epoch: 42200    time:    21463 Seconds
+mean = 9071     max = 31176   
+
+
+epoch: 42300    time:    21513 Seconds
+mean = 8945     max = 30256   
+
+
+epoch: 42400    time:    21571 Seconds
+mean = 10931    max = 28040   
+
+
+epoch: 42500    time:    21626 Seconds
+mean = 10236    max = 30552   
+
+
+epoch: 42600    time:    21678 Seconds
+mean = 9370     max = 26344   
+
+
+epoch: 42700    time:    21737 Seconds
+mean = 10836    max = 30888   
+
+
+epoch: 42800    time:    21786 Seconds
+mean = 8804     max = 25588   
+
+
+epoch: 42900    time:    21839 Seconds
+mean = 9496     max = 25892   
+
+
+epoch: 43000    time:    21891 Seconds
+mean = 9548     max = 26720   
+
+32     100.0 % (0.1 %)
+64     99.9 % (0.8 %)
+128    99.1 % (2.9 %)
+256    96.2 % (12.1 %)
+512    84.1 % (38.4 %)
+1024   45.7 % (40.9 %)
+2048   4.8 % (4.8 %)
+
+epoch: 43100    time:    21943 Seconds
+mean = 9481     max = 27400   
+
+
+epoch: 43200    time:    21996 Seconds
+mean = 9704     max = 26400   
+
+
+epoch: 43300    time:    22051 Seconds
+mean = 10153    max = 27352   
+
+
+epoch: 43400    time:    22104 Seconds
+mean = 9601     max = 27204   
+
+
+epoch: 43500    time:    22158 Seconds
+mean = 9784     max = 24916   
+
+
+epoch: 43600    time:    22210 Seconds
+mean = 9453     max = 21940   
+
+
+epoch: 43700    time:    22265 Seconds
+mean = 10177    max = 26712   
+
+
+epoch: 43800    time:    22317 Seconds
+mean = 9584     max = 25536   
+
+
+epoch: 43900    time:    22369 Seconds
+mean = 9428     max = 26156   
+
+
+epoch: 44000    time:    22421 Seconds
+mean = 9515     max = 23156   
+
+32     100.0 % (0.2 %)
+64     99.8 % (0.3 %)
+128    99.5 % (2.3 %)
+256    97.2 % (11.1 %)
+512    86.1 % (37.3 %)
+1024   48.8 % (44.9 %)
+2048   3.9 % (3.9 %)
+
+epoch: 44100    time:    22475 Seconds
+mean = 9756     max = 26680   
+
+
+epoch: 44200    time:    22528 Seconds
+mean = 9895     max = 29692   
+
+
+epoch: 44300    time:    22584 Seconds
+mean = 10249    max = 28048   
+
+
+epoch: 44400    time:    22634 Seconds
+mean = 9161     max = 27532   
+
+
+epoch: 44500    time:    22689 Seconds
+mean = 10157    max = 25580   
+
+
+epoch: 44600    time:    22744 Seconds
+mean = 10142    max = 24196   
+
+
+epoch: 44700    time:    22799 Seconds
+mean = 10035    max = 25104   
+
+
+epoch: 44800    time:    22852 Seconds
+mean = 9633     max = 25348   
+
+
+epoch: 44900    time:    22905 Seconds
+mean = 9739     max = 26384   
+
+
+epoch: 45000    time:    22959 Seconds
+mean = 9872     max = 28792   
+
+64     100.0 % (0.1 %)
+128    99.9 % (1.7 %)
+256    98.2 % (14.0 %)
+512    84.2 % (35.5 %)
+1024   48.7 % (43.9 %)
+2048   4.8 % (4.8 %)
+
+epoch: 45100    time:    23015 Seconds
+mean = 10258    max = 25476   
+
+
+epoch: 45200    time:    23067 Seconds
+mean = 9413     max = 22900   
+
+
+epoch: 45300    time:    23126 Seconds
+mean = 11067    max = 27636   
+
+
+epoch: 45400    time:    23180 Seconds
+mean = 9937     max = 25276   
+
+
+epoch: 45500    time:    23233 Seconds
+mean = 9836     max = 31940   
+
+
+epoch: 45600    time:    23287 Seconds
+mean = 9739     max = 26040   
+
+
+epoch: 45700    time:    23338 Seconds
+mean = 9413     max = 25336   
+
+
+epoch: 45800    time:    23390 Seconds
+mean = 9535     max = 25636   
+
+
+epoch: 45900    time:    23440 Seconds
+mean = 8822     max = 16600   
+
+
+epoch: 46000    time:    23494 Seconds
+mean = 9923     max = 26212   
+
+32     100.0 % (0.3 %)
+64     99.7 % (0.3 %)
+128    99.4 % (2.4 %)
+256    97.0 % (12.2 %)
+512    84.8 % (36.4 %)
+1024   48.4 % (43.7 %)
+2048   4.7 % (4.7 %)
+
+epoch: 46100    time:    23551 Seconds
+mean = 10735    max = 27488   
+
+
+epoch: 46200    time:    23599 Seconds
+mean = 8586     max = 26096   
+
+
+epoch: 46300    time:    23646 Seconds
+mean = 8190     max = 22464   
+
+
+epoch: 46400    time:    23704 Seconds
+mean = 10939    max = 27368   
+
+
+epoch: 46500    time:    23755 Seconds
+mean = 9114     max = 29684   
+
+
+epoch: 46600    time:    23805 Seconds
+mean = 9055     max = 26228   
+
+
+epoch: 46700    time:    23858 Seconds
+mean = 9533     max = 27116   
+
+
+epoch: 46800    time:    23913 Seconds
+mean = 10098    max = 29608   
+
+
+epoch: 46900    time:    23967 Seconds
+mean = 10121    max = 27128   
+
+
+epoch: 47000    time:    24019 Seconds
+mean = 9472     max = 26432   
+
+32     100.0 % (0.3 %)
+64     99.7 % (0.4 %)
+128    99.3 % (4.0 %)
+256    95.3 % (15.6 %)
+512    79.7 % (33.1 %)
+1024   46.6 % (41.9 %)
+2048   4.7 % (4.7 %)
+
+epoch: 47100    time:    24074 Seconds
+mean = 10199    max = 27152   
+
+
+epoch: 47200    time:    24133 Seconds
+mean = 10896    max = 26384   
+
+
+epoch: 47300    time:    24183 Seconds
+mean = 8997     max = 25456   
+
+
+epoch: 47400    time:    24238 Seconds
+mean = 10146    max = 27328   
+
+
+epoch: 47500    time:    24293 Seconds
+mean = 10188    max = 27420   
+
+
+epoch: 47600    time:    24350 Seconds
+mean = 10349    max = 31232   
+
+
+epoch: 47700    time:    24401 Seconds
+mean = 9225     max = 27180   
+
+
+epoch: 47800    time:    24454 Seconds
+mean = 9841     max = 25096   
+
+
+epoch: 47900    time:    24514 Seconds
+mean = 11082    max = 30112   
+
+
+epoch: 48000    time:    24562 Seconds
+mean = 8582     max = 26136   
+
+16     100.0 % (0.1 %)
+32     99.9 % (0.3 %)
+64     99.6 % (0.3 %)
+128    99.3 % (2.5 %)
+256    96.8 % (11.6 %)
+512    85.2 % (36.6 %)
+1024   48.6 % (44.1 %)
+2048   4.5 % (4.5 %)
+
+epoch: 48100    time:    24613 Seconds
+mean = 9229     max = 29844   
+
+
+epoch: 48200    time:    24666 Seconds
+mean = 9553     max = 27212   
+
+
+epoch: 48300    time:    24715 Seconds
+mean = 8766     max = 27324   
+
+
+epoch: 48400    time:    24765 Seconds
+mean = 9068     max = 25520   
+
+
+epoch: 48500    time:    24820 Seconds
+mean = 9871     max = 31828   
+
+
+epoch: 48600    time:    24875 Seconds
+mean = 10059    max = 27056   
+
+
+epoch: 48700    time:    24927 Seconds
+mean = 9449     max = 29388   
+
+
+epoch: 48800    time:    24984 Seconds
+mean = 10542    max = 26380   
+
+
+epoch: 48900    time:    25035 Seconds
+mean = 9443     max = 28060   
+
+
+epoch: 49000    time:    25087 Seconds
+mean = 9468     max = 26484   
+
+32     100.0 % (0.3 %)
+64     99.7 % (0.2 %)
+128    99.5 % (3.0 %)
+256    96.5 % (13.6 %)
+512    82.9 % (37.2 %)
+1024   45.7 % (41.5 %)
+2048   4.2 % (4.2 %)
+
+epoch: 49100    time:    25137 Seconds
+mean = 8849     max = 16148   
+
+
+epoch: 49200    time:    25192 Seconds
+mean = 10063    max = 23816   
+
+
+epoch: 49300    time:    25242 Seconds
+mean = 9066     max = 30468   
+
+
+epoch: 49400    time:    25298 Seconds
+mean = 10462    max = 27332   
+
+
+epoch: 49500    time:    25355 Seconds
+mean = 10495    max = 24224   
+
+
+epoch: 49600    time:    25407 Seconds
+mean = 9296     max = 25380   
+
+
+epoch: 49700    time:    25459 Seconds
+mean = 9490     max = 27232   
+
+
+epoch: 49800    time:    25505 Seconds
+mean = 8123     max = 30304   
+
+
+epoch: 49900    time:    25558 Seconds
+mean = 9704     max = 31888   
+
+
+epoch: 50000    time:    25607 Seconds
+mean = 8785     max = 26948   
+
+16     100.0 % (0.1 %)
+64     99.9 % (0.7 %)
+128    99.2 % (3.3 %)
+256    95.9 % (15.1 %)
+512    80.8 % (35.9 %)
+1024   44.9 % (41.2 %)
+2048   3.7 % (3.7 %)
