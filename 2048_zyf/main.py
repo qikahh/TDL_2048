@@ -11,7 +11,7 @@ from draw import draw_score, draw_value
 EPOCH_SIZE = 50000
 MAX_NUM = 14 
 ACTION_NUM = 4 # up, down, left, right
-NAME = '6_tuple'
+NAME = 'tt_4_2_tuple'
 squeeze = False
 merge = False
 if squeeze:
@@ -19,21 +19,21 @@ if squeeze:
 if merge:
     NAME += '_merge'
 
-PATTERNS =  [
+'''PATTERNS =  [
     [0,1,2,3],
     [1,5,9,13],
     [0,1,4,5],
     [1,2,5,6],
     [5,6,9,10]
-]
+]'''
 
-MERGE_PATTERNS = [
+'''MERGE_PATTERNS = [
     [0,2],
     [2,3],
     [3,4],
     [1,2],
     [1,3]
-]
+]'''
 
 '''PATTERNS =  [
     [0,1,2,3,4,5],
@@ -42,6 +42,16 @@ MERGE_PATTERNS = [
     [0,1,4,5,9,13],
     [1,2,5,6,9,13]
 ]'''
+
+PATTERNS = [
+    [0],
+    [0, 1],
+    [1, 2],
+    [4, 5],
+    [5, 6]
+]
+
+MERGE_PATTERNS = None
 
 def make_100_mean_score(scores):
     scores = np.array(scores)
@@ -53,13 +63,12 @@ if __name__ == '__main__':
     random.seed(2021)
     path = join('models', NAME)
     agent = Agent(NAME, PATTERNS, MERGE_PATTERNS, MAX_NUM, merge, squeeze)
-    # agent.train(EPOCH_SIZE)
+    agent.train(EPOCH_SIZE)
     agents = []
-    names = []
+    names = ['tt_4_3_tuple']
     for name in names:
         path = join('models', name)
         agents.append(load_model(path))
-    full_metric = load_model
     
     scores = [make_100_mean_score([metric[0] for metric in agent.metrics]) for agent in agents]
     winning_rates = [agent.static['winning_rate'] for agent in agents]

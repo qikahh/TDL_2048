@@ -5,6 +5,7 @@ import time
 import random
 from os.path import join
 from World import Board, STOP_REWARD
+from tqdm import tqdm
 
 MAX_VALUE = 1<<31
 
@@ -189,7 +190,7 @@ class Agent():
         f.close()
         start_epoch = len(self.metrics)
         self.start_time = time.time() - self.run_time
-        for epoch in range(start_epoch, epoch_size):
+        for epoch in tqdm(range(start_epoch, epoch_size)):
             # init score and env (2048)
             score = 0.0
             game = Board().popup().popup()
